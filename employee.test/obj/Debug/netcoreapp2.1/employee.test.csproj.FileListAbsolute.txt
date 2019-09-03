@@ -1,0 +1,17 @@
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/employee.test.deps.json
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/employee.test.runtimeconfig.json
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/employee.test.runtimeconfig.dev.json
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/employee.test.dll
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/employee.test.pdb
+/home/mark/workspace/Technobrain/employee/employee.test/obj/Debug/netcoreapp2.1/employee.test.csprojAssemblyReference.cache
+/home/mark/workspace/Technobrain/employee/employee.test/obj/Debug/netcoreapp2.1/employee.test.csproj.CoreCompileInputs.cache
+/home/mark/workspace/Technobrain/employee/employee.test/obj/Debug/netcoreapp2.1/employee.test.AssemblyInfoInputs.cache
+/home/mark/workspace/Technobrain/employee/employee.test/obj/Debug/netcoreapp2.1/employee.test.AssemblyInfo.cs
+/home/mark/workspace/Technobrain/employee/employee.test/obj/Debug/netcoreapp2.1/employee.test.dll
+/home/mark/workspace/Technobrain/employee/employee.test/obj/Debug/netcoreapp2.1/employee.test.pdb
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/employee.dll
+/home/mark/workspace/Technobrain/employee/employee.test/bin/Debug/netcoreapp2.1/employee.pdb
+/home/mark/workspace/Technobrain/employee/employee.test/obj/Debug/netcoreapp2.1/employee.test.csproj.CopyComplete

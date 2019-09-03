@@ -1,0 +1,9 @@
+/home/mark/workspace/Technobrain/employee/employee/obj/Debug/netstandard2.0/employee.csprojAssemblyReference.cache
+/home/mark/workspace/Technobrain/employee/employee/obj/Debug/netstandard2.0/employee.csproj.CoreCompileInputs.cache
+/home/mark/workspace/Technobrain/employee/employee/obj/Debug/netstandard2.0/employee.AssemblyInfoInputs.cache
+/home/mark/workspace/Technobrain/employee/employee/obj/Debug/netstandard2.0/employee.AssemblyInfo.cs
+/home/mark/workspace/Technobrain/employee/employee/bin/Debug/netstandard2.0/employee.deps.json
+/home/mark/workspace/Technobrain/employee/employee/bin/Debug/netstandard2.0/employee.dll
+/home/mark/workspace/Technobrain/employee/employee/bin/Debug/netstandard2.0/employee.pdb
+/home/mark/workspace/Technobrain/employee/employee/obj/Debug/netstandard2.0/employee.dll
+/home/mark/workspace/Technobrain/employee/employee/obj/Debug/netstandard2.0/employee.pdb
